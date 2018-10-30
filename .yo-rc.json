@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "PSM",
+    "packageName": "com.vodafone.psm",
+    "packageFolder": "com/vodafone/psm",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "Njg4ZmEwZmE4MTg0Y2U0ZjhhMmQ4ODU2N2MwMDMyZTUzYTZiMDNjZDRkNTFmZGI5Y2I1OTNkYzJjNDlhZjdhYzhiMmVjNGUwNmQ0YTE4MWY0OTY4MWUxYTE3OTlmMzQzM2VmNGQ0OTAzMWJlNmY0YzdmYzZjYzE3MjAzM2RmNjQ="
+  },
+  "git-provider": "GitHub",
+  "git-company": "danmdumitru",
+  "repository-name": "psm"
+}
